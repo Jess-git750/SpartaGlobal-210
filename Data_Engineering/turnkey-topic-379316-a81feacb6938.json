@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "turnkey-topic-379316",
+  "private_key_id": "a81feacb69383b664a7e0acd731fe40de17c093c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDes2svQcFs4PXo\n/UCJ8oOeU+FijL+zKSZhdYdC3VvtdEVU8+sje+ScgutQSNE9OsKdHHHofByH3za3\nEjvkI7ome0eZk49qkhGUpLpWUD3+U1pNbv/Nryct2Qp+a0gtV/SIhR8vVzHTyXPP\nq8hAlc2GoATIxejqz1u2e6G4LVnrfv3s04dasazyR5rYsVonBL0fUE4LvA02TJzl\nPQ4xtOWyndHV+l444zQ8Nq/YI/yAjpORh/NNTUW3ox5FSF7I4dVPmSRHw5xX1HI4\nKK3S/oOcjB4cdUV7KL4kYqtuQXf7K4Kp7XLU29CROABQIRyxhopqTQozY9J3PgeO\nxxV81DddAgMBAAECggEASI5cFYFu63I/rDEWndsNVsAtZlZE/rIhdw87imVkVfDT\nxeHScjUjPnrI/9c5lKFYVqe11PDausnWob6nFKUvOOphYX/Z8fa1E6C3tPdfu0Sc\n3y2S2gh+00krShTZ5ywI15HHnzzhVwcDXF2zWJd15q6r4F3ajOYSE1okTkU4Tqjt\nfsV8gsRZo0iFPqJRL0sUD5xSEqVYcEcxzH6Ac49TbYZE3cHpLw6n0W3DiwcK0f6G\nJMP3O19UXprrFUxxnquaetsew7x/Q028G8Gepf7xG6TEfp7OCu4nsbkIjJoaK35L\nkFOvZJlNHM1q8P+NeO9f9UV7/6Ux6dP/pv7+MMqCYQKBgQD6b2KKMw1mpyqvJ+Sd\nFfqvrrPPL8ZjraWGAjJcLWBEvooh12CYcnIE064Z3GBGSMwqNTYabyqlii8C8ZF/\nZtZn6aTXedPSXBB4soWQQAl/F8eqLMBIUsNoYxfSlR6jz9YdJzar1M31rhn0fHeY\nE38gxBldsHORtpMvZPqdjbSUcwKBgQDjpkQPkVS1FLPi4GEfdQdTnkNF/k32xlTE\nvQ4vWsDuG5Lwf249RmVmp6zg4mlieHyVQDDmZlpzsn9nk+NLcWysJVXsU5rFelCY\nPshNWEkNBi8Dk/i+4zClRVwuPel8VscqDyTkcWspLWwHbwQtU+xzFtaGLfFKEXQn\ni77JRgPg7wKBgBr+Voi+5/rgmeE3U5T7AYJeOlNiuueTl/vR0MvOuEmwoAL1zBui\nele62VFAR8BLqHYENkizIs2lD1wp3Zz14LZioLn5D7Pk6IGZ/HuH634feg4FtNQW\n16kwxSiVmi/d/x41U9dBoNGSaonHwLxLnbBScsl+c3aJT2QUZk8FLymxAoGAYz9t\nlMvrfjbUZikkrq46z33EHpPMMbYt5sf1kzehvS1QVoF38kbqlmKrwC91enTE+9zM\ndOZSsPY1DVcwVQfSNQrh9vJMG6RD1twoP3AqCP+VJ54vaClsX+FpWs+rJ4Y9tlx7\n3QyFh6JB4svHqmtYPqTKSh1lgMEzPrpyJxXbQwkCgYEAtqJHwXt8D6fh6quX7AdY\naifW60cwO0Gpv2H2ugPJrDZEYAr+kXi2cqgwk5IgnMkyFewqZyw3Yn/yAbU8ZwFP\n8iVyOkhTx+E8ynUvgqoK0dvtxvnRBRhSjGtQuOO2JKmEOMwtb6Df3jbgqUQ8g7f1\nU7yf3ujgGYq2PtlISVd8VlM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "jess-sparta@turnkey-topic-379316.iam.gserviceaccount.com",
+  "client_id": "117509580648333403421",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jess-sparta%40turnkey-topic-379316.iam.gserviceaccount.com"
+}

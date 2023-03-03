@@ -3,6 +3,11 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,pycharm,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,pycharm,jupyternotebooks
 
+
+
+#ignore  json key:
+
+file.json.turnkey-topic-379316-a81feacb6938.json
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
