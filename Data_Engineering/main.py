@@ -2,7 +2,7 @@
 
 # Press ⌃R to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
-import customer
+from Exercises import customer
 
 cust = customer.Customer("Joe", "Carvel")
 cust.first_name = "John"
